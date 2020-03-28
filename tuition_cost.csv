@@ -29,7 +29,7 @@ Alcorn State University,Mississippi,MS,Public,4 Year,9608,7144,16752,7144,16752
 Alderson-Broaddus University,West Virginia,WV,Private,4 Year,8860,27910,36770,27910,36770
 Alexandria Technical and Community College,Minnesota,MN,Public,2 Year,NA,5416,5416,5416,5416
 Alfred University,New York,NY,Private,4 Year,12516,33484,46000,33484,46000
-Allan Hancock College,California,CA,Public,2 Year,NA,1418,1418,7898,7898
+Allan Hancock College,California,5,Public,2 Year,NA,1418,1418,7898,7898
 Allegany College of Maryland,Maryland,MD,Public,2 Year,NA,4140,4140,9210,9210
 Allegheny College,Pennsylvania,PA,Private,4 Year,12140,47540,59680,47540,59680
 Allegheny Wesleyan College,Ohio,OH,Private,4 Year,4000,6400,10400,6400,10400
@@ -64,7 +64,7 @@ American Samoa Community College,NA,AS,Public,2 Year,NA,3700,3700,3700,3700
 American University,NA,DC,Private,4 Year,14880,48459,63339,48459,63339
 American University of Puerto Rico,NA,PR,Private,4 Year,NA,6946,6946,6946,6946
 Amherst College,Massachusetts,MA,Private,4 Year,14740,56426,71166,56426,71166
-Amridge University,Alabama,AL,Private,4 Year,NA,6900,6900,6900,6900
+Amridge University,Alabama,1,Private,4 Year,NA,6900,6900,6900,6900
 Ancilla College,Indiana,IN,Private,2 Year,9600,17330,26930,17330,26930
 Anderson University,South Carolina,SC,Private,4 Year,9830,28000,37830,28000,37830
 Anderson University,Indiana,IN,Private,4 Year,9890,30450,40340,30450,40340
@@ -681,7 +681,7 @@ De Anza College,California,CA,Public,2 Year,NA,1515,1515,8940,8940
 Dean College,Massachusetts,MA,Private,2 Year,16836,39734,56570,39734,56570
 Defiance College,Ohio,OH,Private,4 Year,10220,32730,42950,32730,42950
 Del Mar College,Texas,TX,Public,2 Year,NA,3170,3170,5780,5780
-Delaware College of Art and Design,Delaware,1,Private,2 Year,12450,25395,37845,25395,37845
+Delaware College of Art and Design,Delaware,DE,Private,2 Year,12450,25395,37845,25395,37845
 Delaware County Community College,Pennsylvania,PA,Public,2 Year,NA,5960,5960,13400,13400
 Delaware State University,Delaware,DE,Public,4 Year,12190,7868,20058,16904,29094
 Delaware Technical Community College: Jack F. Owens Campus,Delaware,DE,Public,2 Year,NA,4855,4855,11583,11583
@@ -1074,7 +1074,7 @@ Hutchinson Community College,Kansas,KS,Public,2 Year,5800,3000,8800,4230,10030
 IBMC College: Fort Collins,Colorado,CO,For Profit,2 Year,NA,13010,13010,13010,13010
 ICPR Junior College,NA,PR,For Profit,2 Year,4000,7010,11010,7010,11010
 Idaho State University,Idaho,ID,Public,4 Year,7207,7420,14627,22940,30147
-Ilisagvik College,Alaska,AK,Public,2 Year,13000,4300,17300,4300,17300
+Ilisagvik College,Alaska,2,Public,2 Year,13000,4300,17300,4300,17300
 Illinois Central College,Illinois,IL,Public,2 Year,NA,4500,4500,11340,11340
 Illinois College,Illinois,IL,Private,4 Year,9280,33090,42370,33090,42370
 Illinois Eastern Community Colleges: Frontier Community College,Illinois,IL,Public,2 Year,NA,3730,3730,11008,11008
@@ -2526,7 +2526,7 @@ University of Colorado Denver,Colorado,CO,Public,4 Year,NA,11394,11394,32004,320
 University of Connecticut,Connecticut,CT,Public,4 Year,12874,15730,28604,38098,50972
 University of Dallas,Texas,TX,Private,4 Year,12400,40652,53052,40652,53052
 University of Dayton,Ohio,OH,Private,4 Year,13580,42900,56480,42900,56480
-University of Delaware,Delaware,DE,Public,4 Year,12862,13680,26542,34310,47172
+University of ,Delaware,DE,Public,4 Year,12862,13680,26542,34310,47172
 University of Denver,Colorado,CO,Private,4 Year,13005,50556,63561,50556,63561
 University of Detroit Mercy,Michigan,MI,Private,4 Year,9496,28000,37496,28000,37496
 University of Dubuque,Iowa,IA,Private,4 Year,9930,34110,44040,34110,44040
