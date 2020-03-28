@@ -4,7 +4,7 @@ Abilene Christian University,Texas,TX,Private,4 Year,10350,34850,45200,34850,452
 Abraham Baldwin Agricultural College,Georgia,GA,Public,2 Year,8474,4128,12602,12550,21024
 Academy College,Minnesota,MN,For Profit,2 Year,NA,17661,17661,17661,17661
 Academy of Art University,California,6,For Profit,4 Year,16648,27810,44458,27810,44458
-Adams State University,Colorado,CO,Public,4 Year,8782,9440,18222,20456,29238
+Adams State University,Colorado,8,Public,4 Year,8782,9440,18222,20456,29238
 Adelphi University,New York,NY,Private,4 Year,16030,38660,54690,38660,54690
 Adirondack Community College,New York,NY,Public,2 Year,11660,5375,17035,9935,21595
 Adrian College,Michigan,MI,Private,4 Year,11318,37087,48405,37087,48405
@@ -12,7 +12,7 @@ Advanced Technology Institute,Virginia,VA,For Profit,2 Year,NA,13680,13680,13680
 Adventist University of Health Sciences,Florida,FL,Private,4 Year,4200,15150,19350,15150,19350
 Agnes Scott College,Georgia,GA,Private,4 Year,12330,41160,53490,41160,53490
 Aiken Technical College,South Carolina,SC,Public,2 Year,NA,5160,5160,8010,8010
-Aims Community College,Colorado,CO,Public,2 Year,NA,2281,2281,13018,13018
+Aims Community College,Colorado,8,Public,2 Year,NA,2281,2281,13018,13018
 Alabama Agricultural and Mechanical University,Alabama,AL,Public,4 Year,8379,9698,18077,17918,26297
 Alabama Southern Community College,Alabama,AL,Public,2 Year,NA,4440,4440,8880,8880
 Alabama State University,Alabama,AL,Public,4 Year,5422,11068,16490,19396,24818
@@ -22,7 +22,7 @@ Alaska Pacific University,Alaska,AK,Private,4 Year,7300,20830,28130,20830,28130
 Albany College of Pharmacy and Health Sciences,New York,NY,Private,4 Year,10920,35105,46025,35105,46025
 Albany State University,Georgia,GA,Public,4 Year,8878,6726,15604,19802,28680
 Albany Technical College,Georgia,GA,Public,2 Year,NA,3246,3246,5916,5916
-Albertus Magnus College,Connecticut,CT,Private,4 Year,13200,32060,45260,32060,45260
+Albertus Magnus College,Connecticut,9,Private,4 Year,13200,32060,45260,32060,45260
 Albion College,Michigan,MI,Private,4 Year,12380,45775,58155,45775,58155
 Albright College,Pennsylvania,PA,Private,4 Year,12070,45306,57376,45306,57376
 Alcorn State University,Mississippi,MS,Public,4 Year,9608,7144,16752,7144,16752
@@ -87,7 +87,7 @@ Appalachian Bible College,West Virginia,WV,Private,4 Year,7960,14720,22680,14720
 Appalachian State University,North Carolina,NC,Public,4 Year,8304,7214,15518,22021,30325
 Aquinas College,Michigan,MI,Private,4 Year,9332,32574,41906,32574,41906
 Aquinas College,Tennessee,TN,Private,4 Year,NA,23600,23600,23600,23600
-Arapahoe Community College,Colorado,CO,Public,2 Year,NA,4811,4811,18671,18671
+Arapahoe Community College,Colorado,8,Public,2 Year,NA,4811,4811,18671,18671
 Arcadia University,Pennsylvania,PA,Private,4 Year,13800,43580,57380,43580,57380
 Arizona Christian University,Arizona,4,Private,4 Year,10674,26796,37470,26796,37470
 Arizona State University,Arizona,4,Public,4 Year,12648,10822,23470,28336,40984
@@ -115,7 +115,7 @@ Ashford University,California,CA,For Profit,4 Year,NA,12160,12160,12160,12160
 Ashland Community and Technical College,Kentucky,KY,Public,2 Year,NA,5310,5310,18000,18000
 Ashland University,Ohio,OH,Private,4 Year,9941,21342,31283,21342,31283
 Ashworth College,Georgia,GA,For Profit,2 Year,NA,1399,1399,1399,1399
-Asnuntuck Community College,Connecticut,CT,Public,2 Year,NA,4404,4404,13170,13170
+Asnuntuck Community College,Connecticut,9,Public,2 Year,NA,4404,4404,13170,13170
 Assumption College,Massachusetts,MA,Private,4 Year,12694,40958,53652,40958,53652
 Assumption College for Sisters,New Jersey,NJ,Private,2 Year,NA,5888,5888,5888,5888
 Athens State University,Alabama,AL,Public,4 Year,NA,6810,6810,12870,12870
@@ -681,9 +681,9 @@ De Anza College,California,CA,Public,2 Year,NA,1515,1515,8940,8940
 Dean College,Massachusetts,MA,Private,2 Year,16836,39734,56570,39734,56570
 Defiance College,Ohio,OH,Private,4 Year,10220,32730,42950,32730,42950
 Del Mar College,Texas,TX,Public,2 Year,NA,3170,3170,5780,5780
-Delaware College of Art and Design,Delaware,DE,Private,2 Year,12450,25395,37845,25395,37845
+Delaware College of Art and Design,Delaware,10,Private,2 Year,12450,25395,37845,25395,37845
 Delaware County Community College,Pennsylvania,PA,Public,2 Year,NA,5960,5960,13400,13400
-Delaware State University,Delaware,DE,Public,4 Year,12190,7868,20058,16904,29094
+Delaware State University,Delaware,10,Public,4 Year,12190,7868,20058,16904,29094
 Delaware Technical Community College: Jack F. Owens Campus,Delaware,DE,Public,2 Year,NA,4855,4855,11583,11583
 Delaware Technical Community College: Stanton/Wilmington Campus,Delaware,DE,Public,2 Year,NA,4855,4855,11583,11583
 Delaware Technical Community College: Terry Campus,Delaware,DE,Public,2 Year,NA,4855,4855,11583,11583
